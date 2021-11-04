@@ -9,5 +9,6 @@ public class Merge2 {
     void meger2() {
 
         System.out.println("11");
+        System.out.println("22");
     }
 }
