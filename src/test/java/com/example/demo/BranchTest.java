@@ -11,4 +11,10 @@ public class BranchTest {
 
         System.out.println("main");
     }
+
+    @Test
+    @DisplayName("main2")
+    void main2() {
+        System.out.println("main2");
+    }
 }
