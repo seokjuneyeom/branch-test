@@ -22,4 +22,12 @@ public class BranchTest {
     void main2() {
         System.out.println("main2");
     }
+
+    @Test
+    @DisplayName("main3")
+    void main3() {
+        System.out.println("main3");
+    }
+
+
 }
